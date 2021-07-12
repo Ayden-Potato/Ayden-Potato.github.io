@@ -4,8 +4,8 @@ body { margin: 0; }
 
 /* GLOBAL COLORS */
 body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(0, 102, 0, .8); }
-a:hover { color: rgba(0, 102, 0, 1); }
+a { color: rgba(0, 238, 255, 0.8); }
+a:hover { color: rgb(0, 204, 255); }
 
 /* GLOBAL TYPOGRAPHY */ 
 body {
@@ -25,17 +25,17 @@ img {
     display: inline-block;
     padding: 1em 2em;
     text-decoration: none;
-    background-color: rgba(0, 102, 0, .8);;
+    background-color: rgba(39, 0, 129, 0.8);;
     color: white;
     border-radius: 5px;
 }
 .button:hover {
-    background-color: rgba(0, 102, 0, 1);
+    background-color: rgba(104, 133, 0, 0.521);
     color: white;
 }
 .button.dark {
-    color: rgba(0, 102, 0, 1);
-    background-color: rgba(255, 255, 255,.8);
+    color: rgba(0, 172, 240, 0.993);
+    background-color: rgba(150, 137, 137, 0.8);
 }
 .button.dark:hover {
     background-color: rgba(255, 255, 255,1);
