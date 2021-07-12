@@ -1,4 +1,5 @@
-# Ayden-Potato.github.io
+# Ayden's Site
 
-hello
-this is some random stuff so yea
+This is a coded static website created as part of an in-class exercise during my summer Web Design Studio class
+
+[View my Site](https://Ayden-Potato.github.io/)
